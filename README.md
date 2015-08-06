@@ -1,5 +1,7 @@
 # Android PagerSlidingTabStrip
 
+首页轮播的Tab样式，这个网上也是很多例子
+
 Interactive paging indicator widget, compatible with the `ViewPager` from the 
 Android Support Library. 
 
